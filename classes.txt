@@ -1,0 +1,4 @@
+pant
+person
+shirt
+tie

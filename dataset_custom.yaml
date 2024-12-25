@@ -1,0 +1,6 @@
+train : C:\Users\Shubham\Desktop\Chowkidaar_Exp\train
+val : C:\Users\Shubham\Desktop\Chowkidaar_Exp\val
+
+nc : 4 
+
+names : ["pant","person","shirt","tie"]
